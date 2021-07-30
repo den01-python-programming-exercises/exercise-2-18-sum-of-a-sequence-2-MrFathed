@@ -1,3 +1,4 @@
+[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5373682&assignment_repo_type=AssignmentRepo)
 # Exercise 2.18 Sum of a sequence - the sequel
 
 Implement a program which calculates the sum of a closed interval, and prints it. Expect the user to write the smaller number first and then the larger number.
